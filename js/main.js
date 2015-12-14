@@ -155,8 +155,6 @@
 
 		}
 
-
-
 	};
 
 	window.onload = function(){
